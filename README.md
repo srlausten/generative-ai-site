@@ -6,6 +6,7 @@ This Dash application showcases interactive AI models for code completion and im
 
 - **Code Completion**: Utilizes a language model to generate code based on user input.
 - **Image Generation**: Generates images from textual descriptions using the Stable Diffusion model.
+![IMG_5346](https://github.com/srlausten/generative-ai-site/assets/65357089/f0b21290-0eb1-43ae-addf-894249d8ed8a)
 
 ## Getting Started with Poetry
 
